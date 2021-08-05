@@ -1,0 +1,12 @@
+Source: raku-io-socket-ssl
+Maintainer: Élerille <elerille+debian@thran.io>
+Section: interpreters
+Priority: optional
+Build-Depends: debhelper-compat (= 12), dh-perl6
+Standards-Version: 4.5.1
+
+Package: raku-io-socket-ssl
+Architecture: all
+Depends: rakudo, ${misc:Depends}, raku-openssl
+Description: Raku module IO::Socket::SSL
+ IO::Socket::SSL for Perl 6 using OpenSSL

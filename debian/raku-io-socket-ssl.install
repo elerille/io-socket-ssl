@@ -1,0 +1,4 @@
+lib/* usr/share/perl6/debian-sources/raku-io-socket-ssl/lib
+t/* usr/share/perl6/debian-sources/raku-io-socket-ssl/t
+META* usr/share/perl6/debian-sources/raku-io-socket-ssl
+README* usr/share/doc/raku-io-socket-ssl/

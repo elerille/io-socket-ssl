@@ -1,0 +1,5 @@
+raku-io-socket-ssl (0.0.2-1) UNRELEASED; urgency=medium
+
+  * Create package for Raku module IO::Socket::SSL
+
+ -- Élerille <elerille+debian@thran.io>  Thu, 05 Aug 2021 13:21:57 +0200
